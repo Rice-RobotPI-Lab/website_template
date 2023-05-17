@@ -3,7 +3,7 @@ title: Kaiyu Hang
 role: Professor of Artificial Intelligence
 avatar_filename: profile2.png
 organizations:
-  - name: Stanford University
+  - name: Rice University
     url: ""
 superuser: false
 authors:
@@ -17,16 +17,10 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:test@example.org
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: mailto:kaiyu.hang@rice.edu
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.se/citations?user=GrgH1lQAAAAJ&hl=en
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -40,8 +34,7 @@ education:
       year: 2008
 email: ""
 user_groups:
-  - Researchers
-  - Visitors
+  - Principal Investigators
 last_name: Wu
 first_name: Alice
 ---

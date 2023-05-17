@@ -1,11 +1,14 @@
 ---
 title: Kejia Ren
-avatar_filename: avatar
+avatar_filename: 1605121633692.jpg
 social:
   - display:
       header: false
-    link: https://hangkaiyu.github.io/
-    icon_pack: far
-    icon: https://hangkaiyu.github.io/
+    link: "mailto:kr43@rice.edu "
+    icon_pack: fas
+    label: Mail
+    icon: mail
 superuser: false
+user_groups:
+  - Graduate Student
 ---
