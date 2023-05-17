@@ -11,7 +11,6 @@ sections:
       text: |-
         Projects for Undergraduate and Master Students: Research projects for Undergraduate and Master students are available. If you are a Rice student and interested in working in my lab, please send me an email with your CV and transcripts. The minimum training time is 6 months.
       email: test@example.org
-      phone: 888 888 88 88
       address:
         street: 6100 Main Street
         city: Houston
