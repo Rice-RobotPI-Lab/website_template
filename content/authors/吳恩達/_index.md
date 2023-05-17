@@ -1,7 +1,7 @@
 ---
 title: Kaiyu Hang
 role: Professor of Artificial Intelligence
-avatar_filename: qq截图20230327170144.png
+avatar_filename: profile2.png
 organizations:
   - name: Stanford University
     url: ""
