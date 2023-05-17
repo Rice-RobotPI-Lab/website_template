@@ -11,9 +11,8 @@ authors:
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Robotics
+  - Manipulation
 social:
   - icon: envelope
     icon_pack: fas
@@ -23,14 +22,17 @@ social:
     link: https://scholar.google.se/citations?user=GrgH1lQAAAAJ&hl=en
 education:
   courses:
+    - course: Postdoc in Robotics
+      institution: Yale University
+      year: 2018
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+      institution: KTH Royal Institute of Technology
+      year: 2014
     - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+      institution: Xi'an Jiaotong University.
+      year: 2012
     - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+      institution: Xi'an Jiaotong University.
       year: 2008
 email: ""
 user_groups:
