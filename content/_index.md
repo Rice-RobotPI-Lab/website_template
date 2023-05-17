@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        RobotPi
         Research Group
       image:
         filename: welcome.jpg
