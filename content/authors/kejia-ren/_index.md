@@ -10,5 +10,5 @@ social:
     icon: mail
 superuser: false
 user_groups:
-  - Graduate Student
+  - Graduate Students
 ---
