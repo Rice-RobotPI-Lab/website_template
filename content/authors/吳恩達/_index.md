@@ -1,34 +1,32 @@
 ---
-# Display name
-title: Alice Wu 吳恩達
-
-# Full name (for SEO)
-first_name: Alice
-last_name: Wu
-
-# Username (this should match the folder name)
-authors:
-  - 吳恩達
-
-# Is this the primary user of the site?
-superuser: false
-
-# Role/position
+title: Kaiyu Hang
 role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
+avatar_filename: qq截图20230327170144.png
 organizations:
   - name: Stanford University
-    url: ''
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+    url: ""
+superuser: false
+authors:
+  - 吳恩達
+bio: My research interests include distributed robotics, mobile computing and
+  programmable matter.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
-
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:test@example.org
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gcushen
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -40,40 +38,15 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+email: ""
 user_groups:
   - Researchers
   - Visitors
+last_name: Wu
+first_name: Alice
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am an Assistant Professor of Computer Science at Rice University, where I direct the **Robotics and Physical Interactions Lab (Robot Lab)**. I am broadly interested in robotic systems that can physically interact with other robots, people, and the world. By developing algorithms in optimization, planning, learning, estimation, and control, my research is focused on efficient, robust, and generalizable manipulation systems, addressing problems that range from small scale grasping and in-hand manipulation, to large scale dual-arm manipulation, mobile manipulation, and multi-robot manipulation.
+
+Before joining Rice CS, I finished my postdoc at Yale University, completed my Ph.D./M.Sc. at KTH Royal Institute of Technology, and received my B.Eng. from Xi'an Jiaotong University.
