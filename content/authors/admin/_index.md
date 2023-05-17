@@ -1,6 +1,7 @@
 ---
 title: Gaotian Wang
-role: Professor of Artificial Intelligence
+role: Graduate student of CS department
+avatar_filename: gaotian-wang.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -10,18 +11,9 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:test@example.org
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: mailto:gwang@rice.edu
 organizations:
-  - name: Stanford University
+  - name: Rice University
     url: ""
 education:
   courses:
@@ -36,7 +28,7 @@ education:
       year: 2008
 superuser: true
 user_groups:
-  - Researchers
+  - Graduate Students
 last_name: Bighetti
 highlight_name: false
 first_name: Nelson
