@@ -46,6 +46,7 @@ last_name: Wu
 first_name: Alice
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am an Assistant Professor of Computer Science at Rice University, where I direct the **Robotics and Physical Interactions Lab (Robot Lab)**. I am broadly interested in robotic systems that can physically interact with other robots, people, and the world. By developing algorithms in optimization, planning, learning, estimation, and control, my research is focused on efficient, robust, and generalizable manipulation systems, addressing problems that range from small scale grasping and in-hand manipulation, to large scale dual-arm manipulation, mobile manipulation, and multi-robot manipulation.
+
+Before joining Rice CS, I finished my postdoc at Yale University, completed my Ph.D./M.Sc. at KTH Royal Institute of Technology, and received my B.Eng. from Xi'an Jiaotong University.
