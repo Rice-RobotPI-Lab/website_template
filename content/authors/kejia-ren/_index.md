@@ -7,8 +7,8 @@ social:
     link: "mailto:kr43@rice.edu "
     icon_pack: fas
     label: Mail
-    icon: mail
+    icon: envelope
 superuser: false
 user_groups:
-  - Graduate Student
+  - Graduate Students
 ---
