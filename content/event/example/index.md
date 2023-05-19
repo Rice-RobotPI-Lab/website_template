@@ -25,7 +25,7 @@ address:
   region: CA
   postcode: "94305"
   country: United States
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2023-05-19T18:50:24.126Z
 tags: []
 projects: null
 image:
