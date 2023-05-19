@@ -23,8 +23,7 @@ authors:
   - Kejia Ren
 publication: IEEE-RAS International Conference on Robotics and Automation (IEEE-RAS ICRA)
 featured: true
-tags:
-  - Source Themes
+tags: []
 projects:
   - internal-project
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
