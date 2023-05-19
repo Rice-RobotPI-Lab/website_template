@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: both.jpg
             filters:
               brightness: 0.7
           position: right
@@ -23,17 +23,17 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: hand2.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
       - title: 👋👀Interactive Perception
         content: 'Just opened last month!'
-        align: right
+        align: left
         background:
           image:
-            filename: welcome.jpg
+            filename: int.jpg
             filters:
               brightness: 0.5
           position: center
