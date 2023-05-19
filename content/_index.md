@@ -9,17 +9,17 @@ sections:
     content:
       title: |
         <span style="font-family: 'Times New Roman';">RobotPI</span>
-        <span style="font-family: 'Times New Roman';">Research Group</span>
+        <span style="font-family: 'Times New Roman';">Group</span>
       image:
         filename: both.jpg
       text: |
         <br>
         
-        **RobotPi** has been a center of excellence for robotics manpulation research, teaching, and practice since its founding in 2021.
+        **RobotPi** has been a center of excellence for robotics manpulation research, teaching, and practice since its founding in 2021
   
   - block: collection
     content:
-      title: Latest News
+      title: <span style="font-family: 'Times New Roman';">Latest News</span>
       subtitle:
       text:
       count: 5
