@@ -1,6 +1,6 @@
 ---
 title: Kaiyu Hang
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Department of Computer Science
 avatar_filename: profile2.png
 organizations:
   - name: Rice University
@@ -8,8 +8,8 @@ organizations:
 superuser: false
 authors:
   - 吳恩達
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: I am an Assistant Professor of Computer Science at Rice University, where I
+  direct the Robotics and Physical Interactions Lab (Robot Lab).
 interests:
   - Robotics
   - Manipulation
@@ -40,8 +40,6 @@ user_groups:
 last_name: Wu
 first_name: Alice
 ---
-
-
-I am an Assistant Professor of Computer Science at Rice University, where I direct the **Robotics and Physical Interactions Lab (Robot Lab)**. I am broadly interested in robotic systems that can physically interact with other robots, people, and the world. By developing algorithms in optimization, planning, learning, estimation, and control, my research is focused on efficient, robust, and generalizable manipulation systems, addressing problems that range from small scale grasping and in-hand manipulation, to large scale dual-arm manipulation, mobile manipulation, and multi-robot manipulation.
+ I am broadly interested in robotic systems that can physically interact with other robots, people, and the world. By developing algorithms in optimization, planning, learning, estimation, and control, my research is focused on efficient, robust, and generalizable manipulation systems, addressing problems that range from small scale grasping and in-hand manipulation, to large scale dual-arm manipulation, mobile manipulation, and multi-robot manipulation.
 
 Before joining Rice CS, I finished my postdoc at Yale University, completed my Ph.D./M.Sc. at KTH Royal Institute of Technology, and received my B.Eng. from Xi'an Jiaotong University.
