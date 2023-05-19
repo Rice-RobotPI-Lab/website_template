@@ -9,7 +9,7 @@ sections:
     content:
       title: |
         <span style="font-family: Arial;">RobotPI</span>
-        Research Group
+        <span style="font-family: 'Times New Roman';">Research Group</span>
       image:
         filename: both.jpg
       text: |
