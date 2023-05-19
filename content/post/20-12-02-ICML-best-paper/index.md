@@ -4,6 +4,7 @@ title: Paper "Kinodynamic Rapidly-exploring Random Forest for
 date: 2020-12-02
 image:
   focal_point: top
+  filename: featured.jpg
 ---
 <!--StartFragment-->
 
