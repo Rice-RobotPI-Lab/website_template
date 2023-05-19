@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        RobotPi
+        <span style="font-family: Arial;">RobotPI</span>
         Research Group
       image:
         filename: both.jpg
