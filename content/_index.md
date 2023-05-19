@@ -11,11 +11,11 @@ sections:
         RobotPi
         Research Group
       image:
-        filename: welcome.jpg
+        filename: both.jpg
       text: |
         <br>
         
-        **RobotPi** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2022.
+        **RobotPi** has been a center of excellence for robotics manpulation research, teaching, and practice since its founding in 2021.
   
   - block: collection
     content:
