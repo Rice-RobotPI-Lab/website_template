@@ -1,14 +1,19 @@
 ---
 title: Kinodynamic Rapidly-exploring Random Forest for Rearrangement-Based
   Nonprehensile Manipulation
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
-  urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci,
-  mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in
-  dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
-  arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
-  eleifend gravida.
+abstract: Rearrangement-based nonprehensile manipulation still remains as a
+  challenging problem due to the high-dimensional problem space and the complex
+  physical uncertainties it entails. We formulate this class of problems as a
+  coupled problem of local rearrangement and global action optimization by
+  incorporating free-space transit motions between constrained rearranging
+  actions. We propose a forest-based kinodynamic planning framework to
+  concurrently search in multiple problem regions, so as to enable global
+  exploration of the most task-relevant subspaces, while facilitating effective
+  switches between local rearranging actions. By interleaving dynamic horizon
+  planning and action execution, our framework can adaptively handle real-world
+  uncertainties. With extensive experiments, we show that our framework
+  significantly improves the planning efficiency and manipulation effectiveness
+  while being robust against various uncertainties.
 slides: null
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 publication_types:
@@ -30,7 +35,7 @@ url_project: ""
 publication_short: In *STC*
 url_source: "#"
 url_video: "#"
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
 links:
   - name: Custom Link
@@ -39,7 +44,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: "#"
 url_code: "#"
 doi: ""
