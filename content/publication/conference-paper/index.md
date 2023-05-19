@@ -34,7 +34,7 @@ url_project: ""
 publication_short: In *STC*
 url_source: "#"
 url_video: "#"
-date: 2013-07-01T00:00:00.000Z
+date: 2023-07-01T00:00:00.000Z
 url_slides: ""
 links:
   - name: Custom Link
