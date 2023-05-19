@@ -21,7 +21,7 @@ publication_types:
 authors:
   - Kaiyu Hang
   - Kejia Ren
-publication: In *Source Themes Conference*
+publication: IEEE-RAS International Conference on Robotics and Automation (IEEE-RAS ICRA)
 featured: true
 tags:
   - Source Themes
