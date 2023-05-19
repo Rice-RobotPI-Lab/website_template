@@ -10,11 +10,11 @@ url_pdf: ""
 summary: An example event.
 title: '"Compliant Robot Manipulation: Challenges and New Opportunities" Workshop'
 location: London
-date: 2030-06-01T13:00:00Z
-date_end: 2030-06-01T15:00:00Z
+date: 2023-05-10T13:00:00.000Z
+date_end: 2023-05-15T15:00:00.000Z
 all_day: false
-event: Wowchemy Conference
-event_url: https://example.org
+event: " IEEE-RAS ICRA 2023"
+event_url: https://sites.google.com/yale.edu/icra2023-compliantmanipulation/
 featured: false
 authors: []
 url_video: ""
@@ -25,7 +25,7 @@ address:
   region: CA
   postcode: "94305"
   country: United States
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 tags: []
 projects: null
 image:
@@ -33,11 +33,8 @@ image:
   focal_point: Right
 url_code: ""
 ---
+<!--StartFragment-->
 
-Slides can be added in a few ways:
+Robust, dexterous manipulation in unstructured environments remains a research problem for those working in both academia and industry. Encapsulating a plethora of potential use cases—from logistics-based packing problems to human-robot service settings—the interactions between a robot and its environment are often difficult to plan and execute precisely, as there will always be some degree of uncertainty in the model of the robot or its environment. This uncertainty has historically elicited conflict within the robot’s internal control schema, as it required both positions and forces of the actuators to be balanced appropriately as to satisfy task requirements.  System compliance—either in a software-based or a hardware-based solution—has been largely the key to enabling a robot to overcome such environmental or system-modeling uncertainties. This inherent adaptability in the robot’s kinematic structure can generally simplify planning and control of the robot, which has in turn enabled fundamental advancements in robot manipulation. In this workshop, we will explore the state-of-the in compliance-enabled robot manipulation on numerous fronts. Panelists and speakers will discuss how compliance, and other similar paradigms, have changed formulations and processes for planning, control, design, sensing, learning, optimization, etc. for such robot systems. 
 
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including page elements such as image galleries, can be added to the body of this page.
+<!--EndFragment-->
