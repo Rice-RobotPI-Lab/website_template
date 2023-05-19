@@ -7,7 +7,7 @@ abstract: 'In IEEE-RAS ICRA 2023, we will organize the second workshop on
   Please read more details here .'
 slides: null
 url_pdf: ""
-summary: An example event.
+summary: ICRA workshop
 title: '"Compliant Robot Manipulation: Challenges and New Opportunities" Workshop'
 location: London
 date: 2023-05-10T13:00:00.000Z
