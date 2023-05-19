@@ -10,7 +10,7 @@ sections:
       slides:
       - title: 👩‍🦯🦿🦾 Nonprehensile Manipulation 
         content: Take a look at what we're working on...
-        align: center
+        align: left
         background:
           image:
             filename: both.jpg
