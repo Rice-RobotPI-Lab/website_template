@@ -28,6 +28,11 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
+		link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Join Us
+          url: ../contact/
       - title: 👋👀Interactive Perception
         content: 'Just opened last month!'
         align: left
