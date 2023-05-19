@@ -1,7 +1,7 @@
 ---
 title: Paper "Self-Supervised Unseen Object Instance Segmentation via Long-Term
   Robot Interaction" accepted by RSS 2023
-date: 2023-12-01T06:00:00.000Z
+date: 2023-03-02T06:00:00.000Z
 image:
   filename: featured.png
 ---
