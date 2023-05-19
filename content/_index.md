@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        <span style="font-family: Arial;">RobotPI</span>
+        <span style="font-family: 'Times New Roman';">RobotPI</span>
         <span style="font-family: 'Times New Roman';">Research Group</span>
       image:
         filename: both.jpg
