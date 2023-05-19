@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        <span style="font-family: 'Times New Roman';">RobotPI</span>
-        <span style="font-family: 'Times New Roman';">Group</span>
+        <span style="font-family: 'Times New Roman';">RobotPI Group</span>
       image:
         filename: both.jpg
       text: |
@@ -19,7 +18,8 @@ sections:
   
   - block: collection
     content:
-      title: <span style="font-family: 'Times New Roman';">Latest News</span>
+      title: |
+        <span style="font-family: 'Times New Roman';">Latest News</span>
       subtitle:
       text:
       count: 5
