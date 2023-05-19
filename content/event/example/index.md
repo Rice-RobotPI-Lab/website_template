@@ -27,10 +27,10 @@ address:
   country: United States
 publishDate: 2023-05-19T18:50:24.126Z
 tags: []
-projects: null
+projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
-  focal_point: Right
+  focal_point: ""
 url_code: ""
 ---
 <!--StartFragment-->
