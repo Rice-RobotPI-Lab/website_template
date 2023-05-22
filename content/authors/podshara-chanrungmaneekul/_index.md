@@ -8,7 +8,7 @@ social:
     link: mailto:pc45@rice.edu
     icon_pack: fas
     icon: envelope
-    label: envelop
+    label: envelope
 superuser: false
 user_groups:
   - Graduate Students
