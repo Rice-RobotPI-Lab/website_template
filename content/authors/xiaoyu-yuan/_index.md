@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 social:
   - display:
       header: false
-    link: xy55@rice.edu
+    link: mailto:xy55@rice.edu
     icon_pack: fas
     icon: envelop
 superuser: false
