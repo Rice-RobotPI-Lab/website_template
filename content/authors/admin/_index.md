@@ -2,8 +2,8 @@
 title: Gaotian Wang
 role: Graduate student of CS department
 avatar_filename: gaotian-wang.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include nonprehensile manipulation, Large Language
+  Models and Task-skill planning.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
