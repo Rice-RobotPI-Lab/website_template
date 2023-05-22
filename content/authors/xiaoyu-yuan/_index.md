@@ -7,7 +7,7 @@ social:
       header: false
     link: mailto:xy55@rice.edu
     icon_pack: fas
-    icon: envelop
+    icon: envelope
 superuser: false
 user_groups:
   - Graduate Students
