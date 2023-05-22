@@ -1,14 +1,14 @@
 ---
-title: Xiaoyu Yuan
-role: Graduate student of CS department
+title: Hayden Webb
+role: Undergraduate student
 avatar_filename: avatar.jpg
 social:
   - display:
       header: false
-    link: mailto:xy55@rice.edu
+    link: mailto:hmw5@rice.edu
     icon_pack: fas
     icon: envelope
 superuser: false
 user_groups:
-  - Graduate Students
+  - Masters and undergraduates
 ---
