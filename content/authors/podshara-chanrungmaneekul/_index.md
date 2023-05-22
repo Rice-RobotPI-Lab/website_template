@@ -5,9 +5,9 @@ avatar_filename: avatar.jpg
 social:
   - display:
       header: false
-    link: "mailto:"
+    link: mailto:pc45@rice.edu
     icon_pack: fas
-    icon: pc45@rice.edu
+    icon: envelope
     label: envelop
 superuser: false
 user_groups:
