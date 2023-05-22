@@ -7,7 +7,7 @@ social:
       header: false
     link: mailto:pc45@rice.edu
     icon_pack: fas
-    icon: envelope
+    icon: envelop
     label: envelop
 superuser: false
 user_groups:
