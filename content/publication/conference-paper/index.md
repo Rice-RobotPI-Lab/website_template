@@ -21,7 +21,7 @@ publication_types:
 authors:
   - Kaiyu Hang
   - Kejia Ren
-publication: IEEE-RAS International Conference on Robotics and Automation (IEEE-RAS ICRA)
+publication: IEEE-RAS International Conference on Robotics and Automation
 featured: true
 tags: []
 projects:
@@ -31,7 +31,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   condimentum.
 url_dataset: "#"
 url_project: ""
-publication_short: In *STC*
+publication_short: (IEEE-RAS ICRA)
 url_source: "#"
 url_video: "#"
 date: 2023-07-01T00:00:00.000Z
