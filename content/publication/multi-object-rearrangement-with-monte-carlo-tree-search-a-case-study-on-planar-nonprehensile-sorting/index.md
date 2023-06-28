@@ -22,7 +22,7 @@ authors:
   - Danica Kragic
   - Johannes A. Stork
 doi: ""
-publication_short: IEEE/RSJ International Conference on Intelligent Robots and Systems
+publication_short: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 tags: []
 projects:
   - Non-prehensile manipulation
@@ -35,7 +35,7 @@ summary: The article proposes using Monte Carlo tree search with a task-specific
   immovable obstacles.
 url_project: ""
 url_video: https://youtu.be/xf6N-a95YKQ
-publication: IEEE/RSJ International Conference on Intelligent Robots and Systems
+publication: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 featured: true
 date: 2023-06-28T21:32:03.825Z
 url_slides: ""
