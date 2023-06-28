@@ -25,7 +25,7 @@ publication: IEEE-RAS International Conference on Robotics and Automation
 featured: true
 tags: []
 projects:
-  - internal-project
+  - Non-prehensile manipulation
 summary: Our approach combines local rearrangement and global action
   optimization for nonprehensile manipulation, with free-space transit motions
   between constrained rearranging actions. We use a kinodynamic planning
