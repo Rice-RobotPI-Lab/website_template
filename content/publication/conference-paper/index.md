@@ -29,7 +29,7 @@ authors:
   - Lydia E. Kavraki
   - Kaiyu Hang
 doi: ""
-publication_short: IEEE-RAS IROS
+publication_short: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 tags: []
 projects:
   - Non-prehensile manipulation
@@ -41,7 +41,7 @@ summary: This paper presents a planning framework for robot manipulation in
   budgets.
 url_project: ""
 url_video: https://youtu.be/xf6N-a95YKQ
-publication: IEEE/RSJ International Conference on Intelligent Robots and Systems
+publication: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 featured: true
 date: 2023-07-01T00:00:00.000Z
 url_slides: ""
