@@ -59,4 +59,4 @@ doi: ""
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+Supplementary notes can be added here, including [code and math](https://arxiv.org/abs/2302.04360).
