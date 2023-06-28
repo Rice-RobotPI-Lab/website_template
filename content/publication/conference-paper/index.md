@@ -23,8 +23,8 @@ authors:
   - Podshara Chanrungmaneekul
   - Lydia E. Kavraki
   - Kaiyu Hang
-publication: IEEE-RAS International Conference on Robotics and Automation
-featured: true
+doi: ""
+publication_short: IEEE-RAS ICRA
 tags: []
 projects:
   - Non-prehensile manipulation
@@ -36,11 +36,10 @@ summary: Our approach combines local rearrangement and global action
   can adapt to real-world uncertainties and improves efficiency and
   effectiveness while remaining robust against uncertainties, as shown by
   extensive experiments.
-
 url_project: ""
-publication_short: (IEEE-RAS ICRA)
-
-url_video: "https://youtu.be/xf6N-a95YKQ"
+url_video: https://youtu.be/xf6N-a95YKQ
+publication: IEEE-RAS International Conference on Robotics and Automation
+featured: true
 date: 2023-07-01T00:00:00.000Z
 url_slides: ""
 links:
@@ -52,7 +51,6 @@ image:
   preview_only: false
   filename: featured.png
 publishDate: 2017-01-01T00:00:00.000Z
-doi: ""
 ---
 
 {{% callout note %}}
