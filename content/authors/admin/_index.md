@@ -28,7 +28,7 @@ education:
       year: 2008
 superuser: true
 user_groups:
-  - Graduate Students
+  - Ph.D. students
 last_name: Bighetti
 highlight_name: false
 first_name: Nelson
