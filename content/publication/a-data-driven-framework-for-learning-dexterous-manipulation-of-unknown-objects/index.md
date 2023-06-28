@@ -53,7 +53,7 @@ url_project: ""
 url_video: https://youtu.be/xf6N-a95YKQ
 publication: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 featured: true
-date: 2023-06-28T22:41:31.159Z
+date: 2019-06-28T22:41:00.000Z
 url_slides: ""
 links:
   - name: Arxiv
