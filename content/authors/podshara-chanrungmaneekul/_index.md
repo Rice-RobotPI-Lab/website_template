@@ -11,5 +11,5 @@ social:
     label: ""
 superuser: false
 user_groups:
-  - Graduate Students
+  - Ph.D. students
 ---
