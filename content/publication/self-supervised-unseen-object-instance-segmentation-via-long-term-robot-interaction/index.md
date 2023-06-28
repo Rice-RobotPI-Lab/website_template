@@ -4,15 +4,15 @@ title: Self-Supervised Unseen Object Instance Segmentation via Long-Term Robot
 publication_types:
   - "1"
 authors:
-  - Y. Lu
-  - N. Khargonkar
-  - Z. Xu
-  - C. Averill
-  - K. Palanisamy
-  - K. Hang
-  - Y. Guo
-  - N. Ruozzi
-  - Y. Xiang
+  - Yangxiao Lu
+  - Ninad Khargonkar
+  - Zesheng Xu
+  - Charles Averill
+  - Kamalesh Palanisamy
+  - Kaiyu Hang
+  - Yunhui Guo
+  - Nicholas Ruozzi
+  - Yu Xiang
 draft: false
 featured: false
 image:
