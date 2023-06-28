@@ -1,6 +1,7 @@
 ---
 title: Self-Supervised Unseen Object Instance Segmentation via Long-Term Robot
   Interaction
+url_pdf: https://arxiv.org/abs/2302.03793
 publication_types:
   - "1"
 authors:
