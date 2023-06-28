@@ -43,7 +43,7 @@ featured: true
 date: 2023-07-01T00:00:00.000Z
 url_slides: ""
 links:
-  - name: arxiv
+  - name: Arxiv
     url: https://arxiv.org/abs/2302.04360
 image:
   caption: ""
