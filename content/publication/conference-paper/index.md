@@ -1,44 +1,47 @@
 ---
-title: Kinodynamic Rapidly-exploring Random Forest for Rearrangement-Based
-  Nonprehensile Manipulation
-abstract: Rearrangement-based nonprehensile manipulation still remains as a
-  challenging problem due to the high-dimensional problem space and the complex
-  physical uncertainties it entails. We formulate this class of problems as a
-  coupled problem of local rearrangement and global action optimization by
-  incorporating free-space transit motions between constrained rearranging
-  actions. We propose a forest-based kinodynamic planning framework to
-  concurrently search in multiple problem regions, so as to enable global
-  exploration of the most task-relevant subspaces, while facilitating effective
-  switches between local rearranging actions. By interleaving dynamic horizon
-  planning and action execution, our framework can adaptively handle real-world
-  uncertainties. With extensive experiments, we show that our framework
-  significantly improves the planning efficiency and manipulation effectiveness
-  while being robust against various uncertainties.
+title: Rearrangement-Based Manipulation via Kinodynamic Planning and Dynamic
+  Planning Horizons
+abstract: "Robot manipulation in cluttered environments often requires complex
+  and sequential rearrangement of multiple objects in order to achieve the
+  desired reconfiguration of the target objects. Due to the sophisticated
+  physical interactions involved in such scenarios, rearrangement-based
+  manipulation is still limited to a small range of tasks and is especially
+  vulnerable to physical uncertainties and perception noise. This paper presents
+  a planning framework that leverages the efficiency of sampling-based planning
+  approaches, and closes the manipulation loop by dynamically controlling the
+  planning horizon. Our approach interleaves planning and execution to
+  progressively approach the manipulation goal while correcting any errors or
+  path deviations along the process. Meanwhile, our framework allows the
+  definition of manipulation goals without requiring explicit goal
+  configurations, enabling the robot to flexibly interact with all objects to
+  facilitate the manipulation of the target ones. With extensive experiments
+  both in simulation and on a real robot, we evaluate our framework on three
+  manipulation tasks in cluttered environments: grasping, relocating, and
+  sorting. In comparison with two baseline approaches, we show that our
+  framework can significantly improve planning efficiency, robustness against
+  physical uncertainties, and task success rate under limited time budgets."
 slides: null
 url_pdf: https://arxiv.org/pdf/2302.04360.pdf
 publication_types:
   - "1"
 authors:
   - Kejia Ren
-  - Podshara Chanrungmaneekul
   - Lydia E. Kavraki
   - Kaiyu Hang
 doi: ""
-publication_short: IEEE-RAS ICRA
+publication_short: IEEE-RAS IROS
 tags: []
 projects:
   - Non-prehensile manipulation
-summary: Our approach combines local rearrangement and global action
-  optimization for nonprehensile manipulation, with free-space transit motions
-  between constrained rearranging actions. We use a kinodynamic planning
-  framework to search in multiple regions, allowing for global exploration of
-  relevant subspaces and effective switches between local actions. The framework
-  can adapt to real-world uncertainties and improves efficiency and
-  effectiveness while remaining robust against uncertainties, as shown by
-  extensive experiments.
+summary: This paper presents a planning framework for robot manipulation in
+  cluttered environments that dynamically controls the planning horizon and
+  interleaves planning and execution. The framework allows for flexible
+  interaction with all objects and improves planning efficiency, robustness
+  against physical uncertainties, and task success rate under limited time
+  budgets.
 url_project: ""
 url_video: https://youtu.be/xf6N-a95YKQ
-publication: IEEE-RAS International Conference on Robotics and Automation
+publication: IEEE/RSJ International Conference on Intelligent Robots and Systems
 featured: true
 date: 2023-07-01T00:00:00.000Z
 url_slides: ""
@@ -57,4 +60,4 @@ publishDate: 2017-01-01T00:00:00.000Z
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code and math](https://arxiv.org/abs/2302.04360).
+Supplementary notes can be added here, including [code and math](https://arxiv.org/abs/2208.02312).
