@@ -15,7 +15,7 @@ abstract: Rearrangement-based nonprehensile manipulation still remains as a
   significantly improves the planning efficiency and manipulation effectiveness
   while being robust against various uncertainties.
 slides: null
-url_pdf: https://arxiv.org/pdf/2302.04360.pdf
+url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 publication_types:
   - "1"
 authors:
@@ -45,7 +45,7 @@ links:
   - name: Custom Link
     url: http://example.org
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
 publishDate: 2017-01-01T00:00:00.000Z
