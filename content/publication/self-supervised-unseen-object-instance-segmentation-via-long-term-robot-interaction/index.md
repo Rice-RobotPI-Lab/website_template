@@ -2,7 +2,7 @@
 title: Self-Supervised Unseen Object Instance Segmentation via Long-Term Robot
   Interaction
 publication_types:
-  - "0"
+  - "1"
 authors:
   - Y. Lu
   - N. Khargonkar
