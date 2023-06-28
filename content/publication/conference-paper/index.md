@@ -26,9 +26,14 @@ featured: true
 tags: []
 projects:
   - internal-project
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: Our approach combines local rearrangement and global action
+  optimization for nonprehensile manipulation, with free-space transit motions
+  between constrained rearranging actions. We use a kinodynamic planning
+  framework to search in multiple regions, allowing for global exploration of
+  relevant subspaces and effective switches between local actions. The framework
+  can adapt to real-world uncertainties and improves efficiency and
+  effectiveness while remaining robust against uncertainties, as shown by
+  extensive experiments.
 url_dataset: "#"
 url_project: ""
 publication_short: (IEEE-RAS ICRA)
