@@ -19,8 +19,10 @@ url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 publication_types:
   - "1"
 authors:
-  - Kaiyu Hang
   - Kejia Ren
+  - Podshara Chanrungmaneekul
+  - Lydia E. Kavraki
+  - Kaiyu Hang
 publication: IEEE-RAS International Conference on Robotics and Automation
 featured: true
 tags: []
