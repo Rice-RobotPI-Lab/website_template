@@ -22,7 +22,7 @@ authors:
   - Danica Kragic
   - Johannes A. Stork
 doi: ""
-publication_short: IEEE-RAS IROS
+publication_short: IEEE/RSJ International Conference on Intelligent Robots and Systems
 tags: []
 projects:
   - Non-prehensile manipulation
