@@ -44,8 +44,8 @@ url_video: "https://youtu.be/xf6N-a95YKQ"
 date: 2023-07-01T00:00:00.000Z
 url_slides: ""
 links:
-  - name: Custom Link
-    url: http://example.org
+  - name: arxiv
+    url: https://arxiv.org/abs/2302.04360
 image:
   caption: ""
   focal_point: ""
