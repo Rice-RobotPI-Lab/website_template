@@ -1,68 +1,71 @@
 ---
-title: 'An example journal article'
+abstract: Constraining contacts to remain fixed on an object during manipulation
+  limits the potential workspace size, as motion is subject to the hand's
+  kinematic topology. Finger gating is one way to alleviate such restraints. It
+  allows contacts to be freely broken and remade so as to operate on different
+  manipulation manifolds. This capability, however, has traditionally been
+  difficult or impossible to practically realize. A finger gating system must
+  simultaneously plan for and control forces on the object while maintaining
+  stability during contact switching. This work alleviates the traditional
+  requirement by taking advantage of system compliance, allowing the hand to
+  more easily switch contacts while maintaining a stable grasp. Our method
+  achieves complete SO(3) finger gating control of grasped objects against
+  gravity by developing a manipulation planner that operates via orthogonal safe
+  modes of a compliant, underactuated hand absent of tactile sensors or joint
+  encoders. During manipulation, a low-latency 6D pose object tracker provides
+  feedback via vision, allowing the planner to update its plan online so as to
+  adaptively recover from trajectory deviations. The efficacy of this method is
+  showcased by manipulating both convex and non-convex objects on a real robot.
+  Its robustness is evaluated via perturbation rejection and long trajectory
+  goals. To the best of the authors' knowledge, this is the first work that has
+  autonomously achieved full SO(3) control of objects within-hand via finger
+  gating and without a support surface, elucidating a valuable step towards
+  realizing true robot in-hand manipulation capabilities.
+slides: null
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+publication_types:
+  - "2"
 authors:
-  - admin
-  - Robert Ford
+  - Andrew S. Morgan
+  - Kaiyu Hang
+  - Bowen Wen
+  - Kostas Bekris
+  - and Aaron M. Dollar
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-date: '2015-09-01T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['2']
-
-# Publication name and optional abbreviated publication name.
-publication: '*Journal of Source Themes, 1*(1)'
-publication_short: ''
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+  - Equal contribution
+  - Equal contribution
+publication: IEEE Robotics and Automation Letters, 2022
+summary: This work presents a method for achieving complete SO(3) finger gating
+  control of grasped objects against gravity, using a manipulation planner that
+  operates via orthogonal safe modes of a compliant, underactuated hand absent
+  of tactile sensors or joint encoders. The method takes advantage of system
+  compliance to allow the hand to more easily switch contacts while maintaining
+  a stable grasp, and uses a low-latency 6D pose object tracker for online
+  feedback and adaptive recovery from trajectory deviations. The method is
+  demonstrated on a real robot manipulating both convex and non-convex objects,
+  and represents a valuable step towards realizing true robot in-hand
+  manipulation capabilities.
+url_dataset: ""
+url_project: ""
+publication_short: RAL
+url_source: ""
+url_video: ""
+title: Complex In-Hand Manipulation via Compliance-Enabled Finger Gaiting and
+  Multi-Modal Planning
+doi: ""
+featured: false
 tags:
   - Source Themes
-featured: false
-
-# links:
-# - name: ""
-#   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ''
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
 projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides:
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  focal_point: ""
+  preview_only: false
+date: 2015-09-01T00:00:00Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
 
 {{% callout note %}}
