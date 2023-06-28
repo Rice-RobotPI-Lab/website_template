@@ -57,6 +57,9 @@ url_project: ""
 url_source: ""
 url_video: ""
 author_notes:
+  - ""
+  - ""
+  - ""
   - Equal contribution
   - Equal contribution
 doi: ""
@@ -64,7 +67,7 @@ publication: IEEE Robotics and Automation Letters, 2022
 projects: []
 date: 2022-03-04T01:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
