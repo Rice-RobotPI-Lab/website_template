@@ -1,4 +1,15 @@
 ---
+title: Complex In-Hand Manipulation via Compliance-Enabled Finger Gaiting and
+  Multi-Modal Planning
+publication_types:
+  - "2"
+authors:
+  - Andrew S. Morgan
+  - Kaiyu Hang
+  - Bowen Wen
+  - Kostas Bekris
+  - and Aaron M. Dollar
+publication_short: RAL
 abstract: Constraining contacts to remain fixed on an object during manipulation
   limits the potential workspace size, as motion is subject to the hand's
   kinematic topology. Finger gating is one way to alleviate such restraints. It
@@ -21,20 +32,16 @@ abstract: Constraining contacts to remain fixed on an object during manipulation
   autonomously achieved full SO(3) control of objects within-hand via finger
   gating and without a support surface, elucidating a valuable step towards
   realizing true robot in-hand manipulation capabilities.
+draft: false
+featured: false
+tags:
+  - Source Themes
 slides: null
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-publication_types:
-  - "2"
-authors:
-  - Andrew S. Morgan
-  - Kaiyu Hang
-  - Bowen Wen
-  - Kostas Bekris
-  - and Aaron M. Dollar
-author_notes:
-  - Equal contribution
-  - Equal contribution
-publication: IEEE Robotics and Automation Letters, 2022
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  focal_point: ""
+  preview_only: false
 summary: This work presents a method for achieving complete SO(3) finger gating
   control of grasped objects against gravity, using a manipulation planner that
   operates via orthogonal safe modes of a compliant, underactuated hand absent
@@ -47,20 +54,14 @@ summary: This work presents a method for achieving complete SO(3) finger gating
   manipulation capabilities.
 url_dataset: ""
 url_project: ""
-publication_short: RAL
 url_source: ""
 url_video: ""
-title: Complex In-Hand Manipulation via Compliance-Enabled Finger Gaiting and
-  Multi-Modal Planning
+author_notes:
+  - Equal contribution
+  - Equal contribution
 doi: ""
-featured: false
-tags:
-  - Source Themes
+publication: IEEE Robotics and Automation Letters, 2022
 projects: []
-image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
-  focal_point: ""
-  preview_only: false
 date: 2015-09-01T00:00:00Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
