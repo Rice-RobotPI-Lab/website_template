@@ -34,7 +34,7 @@ url_video: https://youtu.be/xf6N-a95YKQ
 publication: IEEE-RAS International Conference on Humanoids Robots (Humanoids)
 featured: true
 tags: []
-date: 2023-06-29T03:23:44.353Z
+date: 2019-06-29T03:23:00.000Z
 url_slides: ""
 links:
   - name: Arxiv
