@@ -1,22 +1,26 @@
 ---
-subtitle: Best Robotic Manipulation Paper Award Finalist
-abstract: Person re-identification is a critical security task for recognizing a
-  person across spatially disjoint sensors. Previous work can be computationally
-  intensive and is mainly based on low-level cues extracted from RGB data and
-  implemented on a PC for a fixed sensor network (such as traditional CCTV). We
-  present a practical and efficient framework for mobile devices, such as
-  smartphones and robots, where high-level semantic soft biometrics are
-  extracted from RGB and depth data. By combining these cues, our approach
-  attempts to provide robustness to noise, illumination, and minor variations in
-  clothing. This mobile approach may be particularly useful for identifying
-  people in areas ill-served by fixed sensors or for tasks where the sensor
-  position and direction need to dynamically adapt to a target. Results on the
-  BIWI dataset are preliminary but encouraging. Further evaluation and
-  demonstration of the system will be available on our website.
+subtitle: ""
+abstract: Moving a human body or a large and bulky object may require the
+  strength of whole arm manipulation (WAM). This type of manipulation places the
+  load on the robot's arms and relies on global properties of the interaction to
+  succeed—rather than local contacts such as grasping or non-prehensile pushing.
+  In this paper, we learn to generate motions that enable WAM for holding and
+  transporting humans in certain rescue or patient care scenarios. We model the
+  task as a reinforcement learning problem to provide a robot behavior that can
+  directly respond to external perturbations and human motion. For this, we
+  represent global properties of the robot-human interaction with topology-based
+  coordinates that are computed from arm and torso positions. These coordinates
+  also allow transferring the learned policy to other body shapes and sizes. For
+  training and evaluation, we simulate a dynamic sea rescue scenario and show in
+  quantitative experiments that the policy can solve unseen scenarios with
+  differently-shaped humans, floating humans, or with perception noise. Our
+  qualitative experiments show the subsequent transporting after holding is
+  achieved, and we demonstrate that the policy can be directly transferred to a
+  real-world setting.
 slides: null
 url_pdf: https://arxiv.org/pdf/2302.04360.pdf
-title: Pre-Grasp Sliding Manipulation of Thin Objects Using Soft, Compliant, or
-  Underactuated Hands
+title: Reinforcement Learning in Topology-based Representation for Human Body
+  Movement with Whole Arm Manipulation
 publication_types:
   - "1"
 authors:
@@ -24,8 +28,7 @@ authors:
   - Andrew S. Morgan
   - Aaron M. Dollar
 doi: ""
-publication_short: IEEE-RAS International Conference on Robotics and Automation
-  (ICRA) (RA-L Submission)
+publication_short: IEEE-RAS International Conference on Robotics and Automation (ICRA)
 projects:
   - Non-prehensile manipulation
 image:
@@ -37,10 +40,9 @@ summary: ""
 url_project: ""
 url_video: https://youtu.be/xf6N-a95YKQ
 publication: IEEE-RAS International Conference on Robotics and Automation (ICRA)
-  (RA-L Submission)
 featured: true
 tags: []
-date: 2023-06-29T03:28:52.971Z
+date: 2019-03-15T03:28:52.971Z
 url_slides: ""
 links:
   - name: Arxiv
