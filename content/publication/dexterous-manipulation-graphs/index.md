@@ -8,7 +8,6 @@ abstract: We propose the Dexterous Manipulation Graph as a tool to address
   dual-arm robot with parallel grippers to test our method on a real system and
   show successful planning and execution of in-hand manipulation.
 slides: null
-url_pdf: https://arxiv.org/pdf/2302.04360.pdf
 title: Dexterous Manipulation Graphs
 publication_types:
   - "1"
@@ -28,7 +27,6 @@ image:
   filename: featured.png
 summary: ""
 url_project: ""
-url_video: https://youtu.be/xf6N-a95YKQ
 publication: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 featured: true
 tags: []
