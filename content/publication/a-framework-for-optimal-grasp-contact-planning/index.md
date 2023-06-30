@@ -37,7 +37,7 @@ image:
   filename: featured.png
 summary: ""
 url_project: ""
-date: 2023-06-30T18:57:04.970Z
+date: 2017-06-30T18:57:00.000Z
 url_slides: ""
 tags: []
 links:
